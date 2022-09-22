@@ -58,3 +58,6 @@ b{
 a{
 	font-size: 28px;
 }
+*{
+	font-size: initial;
+}
